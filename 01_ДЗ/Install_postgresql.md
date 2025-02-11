@@ -6,6 +6,7 @@ VM сервер ubuntu 24.04
 2. **Устанавливаем нужные модули PostgreSQL 17 и contrib:**
 > sudo apt install postgresql-17
 
-3. **Запустите и включите сервис PostgreSQL:**
+3. **Запуск сервиса PostgreSQL:**
 > sudo systemctl start postgresql
+4. **Включение сервиса PostgreSQL:**
 > sudo systemctl enable postgresql
