@@ -1,4 +1,4 @@
-VM сервер ubuntu 24.04
+#VM сервер ubuntu 24.04
 1. **Автоматизированная настройка репозитория:**
 > sudo apt install -y postgresql-common
 > sudo /usr/share/postgresql-common/pgdg/apt.postgresql.org.sh
